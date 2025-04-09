@@ -1,0 +1,7 @@
+D:\TOP Accademy\Spiral_2D_array\Spiral_2D_array\bin\Debug\Spiral_2D_array.exe.config
+D:\TOP Accademy\Spiral_2D_array\Spiral_2D_array\bin\Debug\Spiral_2D_array.exe
+D:\TOP Accademy\Spiral_2D_array\Spiral_2D_array\bin\Debug\Spiral_2D_array.pdb
+D:\TOP Accademy\Spiral_2D_array\Spiral_2D_array\obj\Debug\Spiral_2D_array.csproj.AssemblyReference.cache
+D:\TOP Accademy\Spiral_2D_array\Spiral_2D_array\obj\Debug\Spiral_2D_array.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\Spiral_2D_array\Spiral_2D_array\obj\Debug\Spiral_2D_array.exe
+D:\TOP Accademy\Spiral_2D_array\Spiral_2D_array\obj\Debug\Spiral_2D_array.pdb

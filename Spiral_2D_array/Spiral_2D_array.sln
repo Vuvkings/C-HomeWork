@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral_2D_array", "Spiral_2D_array\Spiral_2D_array.csproj", "{698104C7-5BB1-4CA7-A045-20EA729AFF67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{698104C7-5BB1-4CA7-A045-20EA729AFF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698104C7-5BB1-4CA7-A045-20EA729AFF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698104C7-5BB1-4CA7-A045-20EA729AFF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698104C7-5BB1-4CA7-A045-20EA729AFF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEA048C-857F-4960-8DE9-FB0C6EBF161D}
+	EndGlobalSection
+EndGlobal
