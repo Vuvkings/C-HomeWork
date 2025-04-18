@@ -1,0 +1,21 @@
+D:\TOP Accademy\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.exe.config
+D:\TOP Accademy\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.exe
+D:\TOP Accademy\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.pdb
+D:\TOP Accademy\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.csproj.AssemblyReference.cache
+D:\TOP Accademy\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.exe
+D:\TOP Accademy\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.exe.config
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.exe
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.csproj.AssemblyReference.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.csproj.CoreCompileInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.exe
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.exe.config
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Practiks_11.04.25\Practiks_11.04.25\bin\Debug\Practiks_11.04.25.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.csproj.AssemblyReference.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Practiks_11.04.25\Practiks_11.04.25\obj\Debug\Practiks_11.04.25.pdb
