@@ -1,0 +1,14 @@
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\bin\Debug\net9.0\Games Collection.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\bin\Debug\net9.0\Games Collection.deps.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\bin\Debug\net9.0\Games Collection.runtimeconfig.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\bin\Debug\net9.0\Games Collection.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\bin\Debug\net9.0\Games Collection.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\Games Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\Games Collection.AssemblyInfoInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\Games Collection.AssemblyInfo.cs
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\Games Collection.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\Games Collection.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\refint\Games Collection.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\Games Collection.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\Games Collection.genruntimeconfig.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Games Collection\Games Collection\obj\Debug\net9.0\ref\Games Collection.dll
