@@ -1,0 +1,14 @@
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\bin\Debug\net8.0\Task11-12.exe
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\bin\Debug\net8.0\Task11-12.deps.json
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\bin\Debug\net8.0\Task11-12.runtimeconfig.json
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\bin\Debug\net8.0\Task11-12.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\bin\Debug\net8.0\Task11-12.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\Task11-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\Task11-12.AssemblyInfoInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\Task11-12.AssemblyInfo.cs
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\Task11-12.csproj.CoreCompileInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\Task11-12.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\refint\Task11-12.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\Task11-12.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\Task11-12.genruntimeconfig.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Task11-12\Task11-12\obj\Debug\net8.0\ref\Task11-12.dll
