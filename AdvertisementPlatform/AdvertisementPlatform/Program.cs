@@ -1,21 +1,72 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using AdvertisementPlatform;
-Console.WriteLine("Hello, World!");
-//var n = Convert.ToInt32(Console.ReadLine());
-int n = 10;
+using System.Threading;
+
+
+
+/*
+ "Яндекс.Директ:/ru" 
+"Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik" 
+"Газета уральских москвичей:/ru/msk,/ru/permobl,/ru/chelobl"
+"Крутая реклама:/ru/svrd"
+ */
 var advertismentPlatform = new AdvertismentPlatform();
+advertismentPlatform.AddPlatform("Яндекс.Директ:/ru");
+advertismentPlatform.AddPlatform("Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik");
+advertismentPlatform.AddPlatform("Газета уральских москвичей:/ru/msk,/ru/permobl,/ru/chelobl");
+advertismentPlatform.AddPlatform("Крутая реклама:/ru/svrd");
 
-
-for (int i = 0; i < n; i++)
+var location = "/ru/msk";
+var platforms = advertismentPlatform.GetPlatform(location);
+Console.WriteLine($"рекламные площадки, действующие в локации {location}:");
+Console.WriteLine(platforms);
+foreach(var platform in platforms)
 {
-    var value = Console.ReadLine();
-    advertismentPlatform.AddPlatform(value);
+    Console.WriteLine(platform);
 }
 
-var location = Console.ReadLine();
-var advertismentPlatforms = advertismentPlatform.GetPlatform(location);
 
-for (int i = 0; i < advertismentPlatforms.Count; i++)
+
+/*      Test algoritm
+ Dictionary<string, string> platforms = new Dictionary<string, string>();
+//List<string> platformsList = new List<string>();
+var elements = "Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik".Split(':');
+for (int i = 0; i < elements.Length; i++)
 {
-    Console.WriteLine(advertismentPlatforms[i]);
+    Console.WriteLine(elements[i]);
 }
+
+var locations = elements[1].Split(',');
+for (int i = 0; i < locations.Length; i++)
+{
+
+    Console.WriteLine(locations[i]);
+}
+
+platforms.Add(locations[0], elements[0]);
+platforms.Add(locations[1], elements[0]);
+
+List<string> GetPlatforms(string location)
+{
+    List<string> platformsList = new List<string>();
+
+    foreach (var loco in platforms)
+    {
+        if (location == loco.Key) platformsList.Add(loco.Value);
+        // Console.WriteLine(loco.Value);
+    }
+
+    return platformsList;
+}
+
+var listPl = GetPlatforms("/ru/svrd/revda");
+foreach (var pl in listPl) { Console.WriteLine(pl); }
+
+foreach (var loco in platforms)
+{
+    Console.WriteLine($"key: {loco.Key}  value: {loco.Value}");
+}
+ */
+
+
+

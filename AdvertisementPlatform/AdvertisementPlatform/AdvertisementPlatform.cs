@@ -8,20 +8,35 @@ namespace AdvertisementPlatform
 {
     public class AdvertismentPlatform
     {
-        private Dictionary<string, List<string>> advertismentByLocation;
+        public Dictionary<string, string> advertismentByLocation;
+       public List<string> platformsList = new List<string>();
         public AdvertismentPlatform()
         {
-            advertismentByLocation = new();
+            advertismentByLocation = [];
         }
+
+
         public void AddPlatform(string advertismentLocation)
         {
-            var elements = "Яндекс.Директ:/ru/svrd/pervik".Split(':');
+            var elements = advertismentLocation.Split(':');
 
-            var locations = elements[1].Split('/');
+            var locations = elements[1].Split(',');
+            for (int i = 0; i < locations.Length; i++) 
+            {
+                advertismentByLocation.Add(locations[i], elements[0]);
+            }
+            
         }
+
         public List<string> GetPlatform(string location)
         {
-            return new List<string>();
+            
+            foreach (var loco in advertismentByLocation)
+            {
+                if (location == loco.Key) { platformsList.Add(loco.Value); }
+      
+            }
+            return platformsList;
         }
 
     }

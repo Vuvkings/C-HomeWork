@@ -12,3 +12,31 @@ C:\Users\Владимер\source\repos\AdvertisementPlatform\AdvertisementPlatfo
 C:\Users\Владимер\source\repos\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.pdb
 C:\Users\Владимер\source\repos\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.genruntimeconfig.cache
 C:\Users\Владимер\source\repos\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\ref\AdvertisementPlatform.dll
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.exe
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.deps.json
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.runtimeconfig.json
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.dll
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.pdb
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.AssemblyInfoInputs.cache
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.AssemblyInfo.cs
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.csproj.CoreCompileInputs.cache
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.dll
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\refint\AdvertisementPlatform.dll
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.pdb
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.genruntimeconfig.cache
+C:\Users\sholohov.MAN\Desktop\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\ref\AdvertisementPlatform.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.deps.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.runtimeconfig.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\bin\Debug\net9.0\AdvertisementPlatform.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.AssemblyInfoInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.AssemblyInfo.cs
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\refint\AdvertisementPlatform.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\AdvertisementPlatform.genruntimeconfig.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\AdvertisementPlatform\AdvertisementPlatform\obj\Debug\net9.0\ref\AdvertisementPlatform.dll

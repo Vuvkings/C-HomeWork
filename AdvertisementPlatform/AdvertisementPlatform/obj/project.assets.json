@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владимер\\source\\repos\\AdvertisementPlatform\\AdvertisementPlatform\\AdvertisementPlatform.csproj",
+      "projectUniqueName": "D:\\TOP Accademy\\учебные материалы\\Основы C# и .NET\\ДЗ\\AdvertisementPlatform\\AdvertisementPlatform\\AdvertisementPlatform.csproj",
       "projectName": "AdvertisementPlatform",
-      "projectPath": "C:\\Users\\Владимер\\source\\repos\\AdvertisementPlatform\\AdvertisementPlatform\\AdvertisementPlatform.csproj",
+      "projectPath": "D:\\TOP Accademy\\учебные материалы\\Основы C# и .NET\\ДЗ\\AdvertisementPlatform\\AdvertisementPlatform\\AdvertisementPlatform.csproj",
       "packagesPath": "C:\\Users\\Владимер\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владимер\\source\\repos\\AdvertisementPlatform\\AdvertisementPlatform\\obj\\",
+      "outputPath": "D:\\TOP Accademy\\учебные материалы\\Основы C# и .NET\\ДЗ\\AdvertisementPlatform\\AdvertisementPlatform\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
