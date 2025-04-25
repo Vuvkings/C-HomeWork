@@ -1,0 +1,14 @@
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\bin\Debug\net9.0\Student List LINQ.exe
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\bin\Debug\net9.0\Student List LINQ.deps.json
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\bin\Debug\net9.0\Student List LINQ.runtimeconfig.json
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\bin\Debug\net9.0\Student List LINQ.dll
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\bin\Debug\net9.0\Student List LINQ.pdb
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\Student List LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\Student List LINQ.AssemblyInfoInputs.cache
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\Student List LINQ.AssemblyInfo.cs
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\Student List LINQ.csproj.CoreCompileInputs.cache
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\Student List LINQ.dll
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\refint\Student List LINQ.dll
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\Student List LINQ.pdb
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\Student List LINQ.genruntimeconfig.cache
+C:\Users\sholohov.MAN\source\repos\Student List LINQ\Student List LINQ\obj\Debug\net9.0\ref\Student List LINQ.dll
