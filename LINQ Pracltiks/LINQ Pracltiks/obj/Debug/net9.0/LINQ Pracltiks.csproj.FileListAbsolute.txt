@@ -1,0 +1,14 @@
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\bin\Debug\net9.0\LINQ Pracltiks.exe
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\bin\Debug\net9.0\LINQ Pracltiks.deps.json
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\bin\Debug\net9.0\LINQ Pracltiks.runtimeconfig.json
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\bin\Debug\net9.0\LINQ Pracltiks.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\bin\Debug\net9.0\LINQ Pracltiks.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\LINQ Pracltiks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\LINQ Pracltiks.AssemblyInfoInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\LINQ Pracltiks.AssemblyInfo.cs
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\LINQ Pracltiks.csproj.CoreCompileInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\LINQ Pracltiks.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\refint\LINQ Pracltiks.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\LINQ Pracltiks.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\LINQ Pracltiks.genruntimeconfig.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\LINQ Pracltiks\LINQ Pracltiks\obj\Debug\net9.0\ref\LINQ Pracltiks.dll
