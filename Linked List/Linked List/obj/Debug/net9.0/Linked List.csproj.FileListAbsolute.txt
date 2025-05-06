@@ -1,0 +1,14 @@
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\bin\Debug\net9.0\Linked List.exe
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\bin\Debug\net9.0\Linked List.deps.json
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\bin\Debug\net9.0\Linked List.runtimeconfig.json
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\bin\Debug\net9.0\Linked List.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\bin\Debug\net9.0\Linked List.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\Linked List.AssemblyInfoInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\Linked List.AssemblyInfo.cs
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\Linked List.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\refint\Linked List.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\Linked List.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\Linked List.genruntimeconfig.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\учебные материалы\C#\ДЗ\Linked List\Linked List\obj\Debug\net9.0\ref\Linked List.dll
