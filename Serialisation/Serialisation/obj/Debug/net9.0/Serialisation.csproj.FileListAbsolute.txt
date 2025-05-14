@@ -1,0 +1,28 @@
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.exe
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.deps.json
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.runtimeconfig.json
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.AssemblyInfoInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.AssemblyInfo.cs
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\refint\Serialisation.dll
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.pdb
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.genruntimeconfig.cache
+C:\Users\sholohov.MAN\Desktop\Владимир\Serialisation\Serialisation\obj\Debug\net9.0\ref\Serialisation.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.deps.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.runtimeconfig.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\bin\Debug\net9.0\Serialisation.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.AssemblyInfoInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.AssemblyInfo.cs
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\refint\Serialisation.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\Serialisation.genruntimeconfig.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Serialisation\Serialisation\obj\Debug\net9.0\ref\Serialisation.dll
