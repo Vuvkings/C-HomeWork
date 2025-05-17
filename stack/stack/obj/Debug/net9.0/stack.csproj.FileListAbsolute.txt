@@ -1,0 +1,14 @@
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\bin\Debug\net9.0\stack.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\bin\Debug\net9.0\stack.deps.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\bin\Debug\net9.0\stack.runtimeconfig.json
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\bin\Debug\net9.0\stack.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\bin\Debug\net9.0\stack.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\stack.AssemblyInfoInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\stack.AssemblyInfo.cs
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\stack.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\stack.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\refint\stack.dll
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\stack.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\stack.genruntimeconfig.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\ДЗ\Loger\stack\stack\obj\Debug\net9.0\ref\stack.dll
