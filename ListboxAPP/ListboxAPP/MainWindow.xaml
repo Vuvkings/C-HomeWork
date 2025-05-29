@@ -1,0 +1,33 @@
+﻿<Window x:Class="ListboxAPP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListboxAPP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Name="Buttons" Margin="10,30,372,217" RenderTransformOrigin="0.538,2.401" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="AddBlock" Text="Добавление" Width="120" Height="30"></TextBlock>
+                <TextBox Name="Add" Text="Напишите что-нибудь" Width="150" Height="30"></TextBox>
+                <Button Name="AddBtn" Width="120" Height="30" Click="AddBtn_Click"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="RemoveBlock" Text="Удаление" Width="120" Height="30"></TextBlock>
+                <TextBox Name="Remove" Text="Введите имя элемента" Width="150" Height="30"></TextBox>
+                <Button Name="RemoveBtn" Width="120" Height="30" Click="RemoveBtn_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Margin="433,30,28,69" Grid.ColumnSpan="2">
+            <ListBox Name="ListBox1" Width="200" Height="300" SelectionChanged="ListBox1_SelectionChanged"/>
+        </StackPanel>
+
+
+    </Grid>
+</Window>
